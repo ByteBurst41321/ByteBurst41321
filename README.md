@@ -2,7 +2,7 @@
 - 👀 I’m interested in html c++ and python
 - 🌱 I’m currently learning html
 - 💞️ I’m looking to collaborate on nothing right now
-- 📫 How to reach me at byteburst@mailfence.com
+- 📫 How to reach me at 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: dont have a fun fact
 
